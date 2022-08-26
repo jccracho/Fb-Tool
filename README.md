@@ -1,7 +1,8 @@
 # Fb-Tool
-Fb-Tool Is use created for lost account only Do Not use this tool for bad
-
-Termux installation 
-apt update && apt upgrade 
-apt install git 
-apt install python3
+<h2Fb-Tool Is use created for lost account only Do Not use this tool for bad</h2>
+<br>
+<h1>Termux installation <br>
+apt update && apt upgrade <br>
+apt install git <br>
+apt install python3<br>
+</h1>
