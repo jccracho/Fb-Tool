@@ -1,5 +1,5 @@
 # Fb-Tool
-<h2> Fb-Tool is created for account protection, brute force, Profile shield and many more tools</h2>
+<h2> Fb-Tool is created for account protection, brute force, Profile shield etc</h2>
 <br>
 <br>
 <h1>Termux installation <br><br>
